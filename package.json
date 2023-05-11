@@ -1,7 +1,7 @@
 {
   "name": "cryptoon",
   "version": "0.1.0",
-  "homepage": "https://robojukic.github.io/CryptoonApp"
+  "homepage": "https://robojukic.github.io/CryptoonApp",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
