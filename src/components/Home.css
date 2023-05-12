@@ -51,13 +51,6 @@
   }
 }
 
-.home-imgUpDown {
-  width: 90px;
-  height: 90px;
-  object-fit: contain;
-  animation: animateUpDown infinite 2s;
-}
-
 @media (max-width: 500px) {
   .home-top {
     width: 100%;
@@ -68,9 +61,6 @@
     font-weight: 700;
     font-size: 3rem;
     text-align: center;
-  }
-  .container-titleAndImg > img {
-    display: none;
   }
   .h1-gradient {
     font-weight: 700;
