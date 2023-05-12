@@ -1,0 +1,17 @@
+[33mcommit a79378378f38a26d6f05263995cbebf963063b71[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Robo Jukić <robo.jukic2@gmail.com>
+Date:   Thu May 11 21:26:20 2023 +0200
+
+    First commit
+
+[33mcommit 0a06a78175ed6e01f42c7d2acb7e1fd1a4f2ff33[m
+Author: Robo Jukić <robo.jukic2@gmail.com>
+Date:   Thu May 11 21:25:49 2023 +0200
+
+    First commit
+
+[33mcommit 22ff3b2114d4b31a12aef104224729ad86c1943c[m
+Author: Robo Jukić <robo.jukic2@gmail.com>
+Date:   Thu May 11 18:29:30 2023 +0200
+
+    Initialize project using Create React App
