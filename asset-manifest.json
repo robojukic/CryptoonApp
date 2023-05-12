@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CryptoonApp/static/css/main.c75d3cec.css",
-    "main.js": "/CryptoonApp/static/js/main.2a390a95.js",
+    "main.css": "/CryptoonApp/static/css/main.4418a111.css",
+    "main.js": "/CryptoonApp/static/js/main.001099a6.js",
     "index.html": "/CryptoonApp/index.html",
-    "main.c75d3cec.css.map": "/CryptoonApp/static/css/main.c75d3cec.css.map",
-    "main.2a390a95.js.map": "/CryptoonApp/static/js/main.2a390a95.js.map"
+    "main.4418a111.css.map": "/CryptoonApp/static/css/main.4418a111.css.map",
+    "main.001099a6.js.map": "/CryptoonApp/static/js/main.001099a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c75d3cec.css",
-    "static/js/main.2a390a95.js"
+    "static/css/main.4418a111.css",
+    "static/js/main.001099a6.js"
   ]
 }
